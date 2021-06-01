@@ -24,6 +24,8 @@ Install java 11
 Install maven
 ```
 
+To use it inside an IDE like Eclipse or Intellij it's required to add the Lombok plugin: https://www.baeldung.com/lombok-ide
+
 ### Installing
 
 To build the project
@@ -110,6 +112,7 @@ $ java -jar montyhall-0.0.1-SNAPSHOT.jar 10,3,1
 ## Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
+* [Lombok](https://projectlombok.org/) - Library for getters/setters generation
 
 ## Authors
 
