@@ -2,8 +2,7 @@
 
 ### Assignment Statement:
 
-The assignment is to write a program that finds the best odds off getting a prize on getting a new box or keeping the one you've received.
-The show rules are:
+The assignment is to write a program that finds the best odds of getting a prize on getting a new box or keeping the one you've received. The show rules are
 
 a) The player picks one box
 
