@@ -4,8 +4,11 @@
 
 The assignment is to write a program that finds the best odds off getting a prize on getting a new box or keeping the one you've received.
 The show rules are:
+
 a) The player picks one box
+
 b) The host picks one empty box.
+
 c) Without opening its box, the player must decide if they want to keep it or get a new one.
 
 ## Getting Started
