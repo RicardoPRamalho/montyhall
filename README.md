@@ -21,7 +21,7 @@ All dependencies are mentioned in pom.xml
 
 ```
 Install java 11
-Install gradle maven
+Install maven
 ```
 
 ### Installing
